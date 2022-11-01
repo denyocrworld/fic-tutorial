@@ -1,14 +1,10 @@
-import 'package:fhe_template/setup.dart';
-import 'package:fhe_template/state_util.dart';
+import 'package:fhe_template/core.dart';
 import 'package:flutter/material.dart';
 
 void main() async {
   await initialize();
 
-  Widget mainView = Container();
-  // if (FirebaseAuth.instance.currentUser != null) {
-  //   mainView = Container();
-  // }
+  Widget mainView = const DashboardView();
 
   runApp(
     MaterialApp(
