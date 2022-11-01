@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "740567386325",
+    "project_id": "fic-projects",
+    "storage_bucket": "fic-projects.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740567386325:android:c390dfffbf7421d25bba5c",
+        "android_client_info": {
+          "package_name": "com.example.blank_fire_setstate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740567386325-udlor8kmrt5dsre3429kjpvvrfv13epj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLyVEXtmd2bF8WzLZt20ENoTY8j5F3OwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740567386325-udlor8kmrt5dsre3429kjpvvrfv13epj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740567386325:android:475d68531c29e8f75bba5c",
+        "android_client_info": {
+          "package_name": "com.example.fic_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740567386325-udlor8kmrt5dsre3429kjpvvrfv13epj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLyVEXtmd2bF8WzLZt20ENoTY8j5F3OwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740567386325-udlor8kmrt5dsre3429kjpvvrfv13epj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
